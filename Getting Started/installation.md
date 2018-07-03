@@ -30,7 +30,7 @@ Java version 1.6.0 or upper
 
 You can download/clone sample code libraries to your local machine or you can directly clone idemart code libraries to your server
 
-make sure that yiu have all the dependencies installed in your preferred deployent environment.
+make sure that you have all the dependencies installed in your preferred deployent environment.
 
 ```sh
 $ git clone <<ideamart url>>
