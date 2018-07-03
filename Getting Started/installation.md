@@ -18,17 +18,19 @@ Imagine you need to send an SMS and get the delivery notification, invoke a USSD
   - offline simulator which you can test your apps
 
 ### Server Requirments 
-ideamart officially support PHP and Java programming languages
+ideamart officially support PHP,Java,Go,NodeJs and Python programming languages
 
 ##### php requirments
 PHP >= 5.6 is supported 
 
 ##### Java requirments
-...
+Java version 1.6.0 or upper
 
 ### Installation
-If you have PHP installed locally or a server and you would like to use PHP's built-in development server to serve your application,
 
+You can download/clone sample code libraries to your local machine or you can directly clone idemart code libraries to your server
+
+make sure that yiu have all the dependencies installed in your preferred deployent environment.
 
 ```sh
 $ git clone <<ideamart url>>
